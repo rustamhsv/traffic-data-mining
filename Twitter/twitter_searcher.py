@@ -6,6 +6,7 @@ consumer_key = "yJ6jYKKHZjgleZZvxnw62TuyZ"
 consumer_secret = "c6KZ1sIcbpVmZ79n2sXdKwX6lQ0SLiz1U9CDDlWeZTKlpdYlHq"
 access_token = "1438393552241926146-F9swElHcab7JUr22iN5vFzC1joWLUN"
 access_token_secret = "lVJFRfLdFXEps3cMLXsoskKRguetLREBY2CH8eIVIYHAT"
+print('a')
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
