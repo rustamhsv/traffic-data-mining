@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/TomTom/detectors.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Twitter/Files/travel_data_eng.csv">
           <value>
             <Attribute>
